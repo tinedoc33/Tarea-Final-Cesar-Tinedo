@@ -64,6 +64,7 @@ Sube tu cuaderno a un repositorio público en GitHub.
 Nota: Por favor, mantén a mano el enlace del repositorio de GitHub del cuaderno.
 Necesitarás enviar este enlace como parte de la evaluación de la tarea.
 Sugerencia: Consulta Laboratorio: Trabajando con archivos en Jupyter Notebooks para descargar el cuaderno de SN Labs.
+
 Ejercicio 13 - Toma una captura de pantalla de la primera página del cuaderno y guárdala como 1-notebook.png (Las imágenes se pueden guardar con la extensión .jpg o .png.)
 Consulta Laboratorio práctico: Introducción a GitHub para subir el cuaderno descargado a GitHub.
 Felicidades por completar este proyecto. En un elemento posterior del curso, enviarás un enlace a tu cuaderno en GitHub y evaluarás a tus compañeros.
